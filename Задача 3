@@ -1,0 +1,8 @@
+Вхідні дані:
+2
+12
+Виведення програми:
+6
+pup = int(input())
+apl = int(input())
+print(apl//pup)
