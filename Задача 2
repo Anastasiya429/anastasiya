@@ -1,0 +1,13 @@
+Вхідні дані: 22
+Вихідні дані: 
+The next number for the number 22 is 23.
+The previous number for the number 23 is 22.
+
+a = int(input())
+# Print a value:
+# print(a)
+
+a = int(input())
+
+print("The next number for the number", a, "is", a + 1)
+print("The previous number for the number", a, "is", a - 1)
